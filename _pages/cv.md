@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Work 
+Position 
 ======
 * **Research Fellow** at the [Paris Saclay Applied Economics](https://psae.versailles-grignon.hub.inrae.fr/) ([INRAE](https://www.inrae.fr/en)) research unit (Paris, France), 2024-
 * **Postdoctoral Researcher** in the Department of Economics of the [Swedish University of Agricultural Sciences](https://www.slu.se/en/departments/economics/research/research-groups/environmental-economics/) (Uppsala, Sweden), 2022-2023
